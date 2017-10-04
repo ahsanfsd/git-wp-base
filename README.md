@@ -4,7 +4,7 @@ This project will create a base installation of Wordpress using the wp-cli/wp-cl
 ## Installation
 Begin by installing this package through Composer.
 
-    composer create-project ahsanfsd/git-wp-base <destination_directory>
+    composer create-project ahsanfsd/wp-base-setup <destination_directory>
 
 After composer process is finished, update the parameter values in `.env` file to be used in wp-config.php.
 
